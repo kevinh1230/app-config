@@ -16,4 +16,4 @@ greeting:
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
 
-testString: wootwoo
+testString: 4567
