@@ -16,4 +16,4 @@ greeting:
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
 
-testString: 4567
+testString: 123
